@@ -1,0 +1,2 @@
+class NeuronforgeError(Exception):
+    pass
